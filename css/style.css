@@ -4,13 +4,13 @@ body {
 }
 .head {
     width: 100%;
-    height: 90px;
+    height: 110px;
     background-color: #171a21;
 
     
 }
 .container{
-    width: 800px;
+    width: 976px;
     margin: 0 auto;
     display: flex;
     
@@ -18,25 +18,26 @@ body {
     
 }
 .steam__icon{
-    width: 100px;
+    width: 140px;
     height: 50px;
     z-index: 1;
     
+    
 }
 .steam__logo {
-    margin-top: 15px;
+    margin-top: 20px;
 }
 .nav {
     display: flex;
     margin-left: 70px;
-    margin-top: 30px;
+    margin-top: 42px;
 
 }
 
 /* drop down navigation */
 .link {
     text-decoration: none;
-    color: #cac8c7;
+    color: #a8a7a6;
     padding: 5px;
 }
 .link:hover{
@@ -44,9 +45,9 @@ body {
 }
 .dropbtn {
     background-color:#171a21 ;
-    color: #fff;
+    
     padding: 3px;
-    font-size: 10px;
+    font-size: 14px;
     border: none;
 }
 .dropdown {
@@ -65,11 +66,11 @@ body {
     padding-bottom: 10px;
 }
 .sub__content a {
-    color: #b8b6b4;
+    color: #a8a7a6;
     padding: 5px 16px;
     text-decoration: none;
     display: block;
-    font-size: 10px;
+    font-size: 11px;
     
     
 }
@@ -81,7 +82,20 @@ body {
 }
 
 /* drop down navigation */
-
+.left__nav {
+    
+}
+.down__btn{
+    background-color: #171a21;
+    border: 0;
+    background-color: #3c3d41;
+    
+    
+}
+.down__png {
+    color: #a8a7a6;
+    
+}
 
 /* ------------------ */
     .wraper__body {
